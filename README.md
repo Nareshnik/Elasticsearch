@@ -1,12 +1,7 @@
  Elasticsearch
 
- # Employee Data Indexing Assignment
-
-## Full Name
-[Your Name]
-
-## Assignment Overview
-This assignment involves working with Elasticsearch to index employee data. The objective is to perform various operations like creating collections, indexing data, searching by specific columns, and retrieving employee counts.
+ # Employee Data Indexing project
+This project involves working with Elasticsearch to index employee data. The objective is to perform various operations like creating collections, indexing data, searching by specific columns, and retrieving employee counts.
 
 ## Installation Instructions
 1. **Read about Elasticsearch:** Familiarize yourself with the basics by reading the [Getting Started with Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html).
